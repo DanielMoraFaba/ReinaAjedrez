@@ -1,6 +1,6 @@
 # Tarea Reina Ajedrez
 ## Profesor: Juan Antonio Muñoz Almansa
-## Alumno: Pepito Perez
+## Alumno: Daniel Mora Faba
 
 La tarea va a consistir en modelar el movimiento de una reina de ajedrez por el tablero de dicho juego.
 Ilustración que muestra la posición inicial de las reinasIlustración que muestra el movimiento de la reina en el tablero del ajedrez
